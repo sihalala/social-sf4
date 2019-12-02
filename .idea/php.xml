@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="social-sf4.local" id="7ad60a37-1126-4788-abcd-fad9cb5a7c64" name="social-sf4.local" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/social-sf4" />
+          <mapping local-root="$PROJECT_DIR$/public" remote-root="/home/vagrant/social-sf4/public" />
+          <mapping local-root="$PROJECT_DIR$/src" remote-root="/home/vagrant/social-sf4/src" />
+        </path_mappings>
+      </server>
+      <server host="192.168.10.10" id="9b8be0a7-0fa7-4193-9123-9b01957cc9ea" name="socialsf" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/social-sf4" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>
